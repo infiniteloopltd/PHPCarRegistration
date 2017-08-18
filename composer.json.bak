@@ -1,0 +1,19 @@
+{
+    "name": "infiniteloop/carregistration",
+    "description": "Look up car details from a number plate in many countries worldwide. Account required from www.vehicleregistrationapi.com",
+    "type": "library",
+    "license": "creative commons",
+    "authors": [
+        {
+            "name": "Infinite Loop",
+            "email": "info@infiniteloop.ie"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "Converter": "src/"
+        }
+    }
+}
